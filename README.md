@@ -1,3 +1,3 @@
 # weechat-dotfiles
 
-![screenshot](./.assets/screenshot.png)
+![screenshot](./screenshot.png)
